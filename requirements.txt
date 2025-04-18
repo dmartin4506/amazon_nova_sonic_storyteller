@@ -1,0 +1,6 @@
+streamlit
+streamlit-webrtc
+pyaudio
+boto3
+aws-sdk-bedrock-runtime
+python-dotenv
